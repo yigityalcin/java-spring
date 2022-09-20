@@ -8,7 +8,7 @@ public class Main {
 		// System.out.println("Hello kodlama.io");
 		
 		//Ders-6
-		//camelCase, reusability
+		// camelCase,  reusability
 		int sayi = 13;
 		String mesaj = "sayi : ";
 		System.out.println(mesaj + sayi);
