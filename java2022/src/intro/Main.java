@@ -1,6 +1,6 @@
-package java2022;
+package intro;
 
-public class intro {
+public class Main {
 
 	public static void main(String[] args) {
 		
